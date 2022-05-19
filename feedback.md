@@ -1,0 +1,1 @@
+I am still very confused with git. At least with the calobrating part. I have made a few repositories where I am working on my own but I do not have any experience with pull requests or the like. I am used to haveing the ability to just do what I want to do.
